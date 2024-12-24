@@ -2,17 +2,17 @@
 
 I'm a seasoned **Full Stack Developer** with 9+ years of experience specializing in:
 
-- **Frameworks:** Laravel, Vue.js, CodeIgniter
-- **Programming Languages:** PHP, JavaScript, MySql
-- **Expertise:** Scalable web applications, SaaS platforms, POS systems, LMS solutions, E-commerce, Accounting, Startups
+- **Frameworks:** Laravel, CodeIgniter, WordPress, YII
+- **Programming Languages:** PHP, Vue.js, JavaScript, MySql
+- **Expertise:** Scalable web applications, SaaS platforms, POS systems, LMS solutions, E-commerce, Accounting, Startups, CMS, Medical Portal, Booking System
 
 ## 🔧 My Skills
 
-- **Backend Development:** Expertise in Laravel and CodeIgniter for building robust and secure applications.
-- **Frontend Development:** Vue.js for dynamic and engaging user interfaces.
+- **Backend Development:** Expertise in Laravel, CodeIgniter, and Core PHP for building robust and secure applications.
+- **Frontend Development:** Vue.js for dynamic, one-page, engaging user interfaces.
 - **Database Management:** Skilled in MySQL and optimizing queries for high-performance applications.
 - **API Development:** RESTful APIs and integrations for seamless connectivity.
-- **Performance Tuning:** Experience handling applications with 5000+ requests/second.
+- **Performance Tuning:** Experience handling applications with 5000+ requests/second. Also, SEO friendly pages
 
 ## 🚀 Technologies & Tools
 
